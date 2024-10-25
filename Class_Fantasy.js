@@ -1,4 +1,5 @@
 class Character {
+    //Creating a constructor class Aka the default template that all characters use
     constructor (name) {
     this.name = name;
     this.health = 100;
