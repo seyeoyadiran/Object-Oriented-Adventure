@@ -84,4 +84,4 @@ for(let i = 0; i < adventurer.companion.companion.inventory.length; i++){
     console.log(adventurer.companion.companion.inventory[i]);
 }
 
-adventurer.roll(120)
+adventurer.roll()
